@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, everyone!
 
-<!--
-**popovicu/popovicu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/popovicu94">
+<img align="left" alt="Uros Popovic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/upopovic/">
+<img align="left" alt="Uros Popovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://reddit.com/u/urosp/">
+<img align="left" alt="Uros Popovic | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+I'm Uros Popovic, and thanks for checking out my Github! You can find my website/blog at https://popovicu.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work as a Staff Software Engineer on Google Cloud, but my interests in tech are broad, and in this repo you'll find my hobby projects from many areas, mainly hardware and low-level software.
+
+Please follow here or at the profiles above to stay up to date with my uploads!
