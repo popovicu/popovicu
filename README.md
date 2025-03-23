@@ -14,6 +14,6 @@
 
 I'm Uros Popovic, and thanks for checking out my Github! You can find my website/blog at https://popovicu.com.
 
-I currently work as a Staff Software Engineer on Google Cloud, but my interests in tech are broad, and in this repo you'll find my hobby projects from many areas, mainly hardware and low-level software.
+I currently work as a Software Engineer at Meta, but my interests in tech are broad, and in this repo you'll find my hobby projects from many areas, mainly hardware and low-level software.
 
 Please follow here or at the profiles above to stay up to date with my uploads!
